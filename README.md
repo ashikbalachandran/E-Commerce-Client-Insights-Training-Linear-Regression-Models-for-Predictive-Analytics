@@ -1,0 +1,1 @@
+This project utilizes linear regression to analyze and predict e-commerce client behavior. By examining client data such as transaction history and demographics, the study aims to develop a predictive model to enhance marketing strategies and sales. Performance is evaluated with metrics like RMSE and MAE to ensure accuracy.
